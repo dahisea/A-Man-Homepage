@@ -1,7 +1,4 @@
-@font-face {
-font-family: '华文中宋';
-src: url(https://cdn.jsdmirror.com/gh/dahisea/w_file@main/assets/fonts/ud-r.woff2);
-}
+
 textarea {
     resize: none;
     overflow: hidden;
